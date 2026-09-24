@@ -1,8 +1,5 @@
 ## Hi, I'm Josh👋
 
-<!--
-**Josh-Talks/Josh-Talks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a AI/ML PhD researcher and engineer specialising in deep learning for biomedical image analysis. 
 
 My work focuses on 
