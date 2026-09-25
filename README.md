@@ -30,8 +30,9 @@ Developed a novel source-free, unsupervised metric for ranking the transferabili
 
 Some of my research software is maintained in private institutional repositories because it supports ongoing or unpublished research.
 
-**Self Supervised Foundation Model for Cryo-Electron Tomography**
-*Python · Pytorch Lightning · HPC*
+### Self Supervised Foundation Model for Cryo-Electron Tomography**
+
+**Python · Pytorch Lightning · HPC**
 
 Lead model developer of a self-supervised foundation model for cryo-electron tomography (cryo-ET), exploring learning useful self-supervised representations that can transfer to downstream tasks including denoising, subcellular segmentation, and macromolecular detection and identification.
 
