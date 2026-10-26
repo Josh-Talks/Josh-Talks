@@ -25,7 +25,7 @@ Electron Microscopy · Cryo-ET · Light Microscopy · CBCT · Medical & Microsco
 
 **Python · PyTorch · Deep Learning · HPC/SLURM · Biomedical Image Segmentation**
 
-Developed a novel source-free, unsupervised metric for ranking the transferability of pre-trained biomedical segmentation models without access to target-domain labels. CMR enables systematic model selection under distribution shift and supports the wider reuse of pre-trained models from model zoos. Accepted at [ECCV 2026](https://eccv.ecva.net/virtual/2026/poster/4464) [ArXiV](https://arxiv.org/abs/2503.00450).
+Developed a novel source-free, unsupervised metric for ranking the transferability of pre-trained biomedical segmentation models without access to target-domain labels. CMR enables systematic model selection under distribution shift and supports the wider reuse of pre-trained models from model zoos. The work combines research into model transferability with a modular Python/PyTorch framework for large-scale experimentation across heterogeneous biomedical imaging datasets. Accepted at [ECCV 2026](https://eccv.ecva.net/virtual/2026/poster/4464) [ArXiV](https://arxiv.org/abs/2503.00450).
 
 ---
 
@@ -33,9 +33,9 @@ Developed a novel source-free, unsupervised metric for ranking the transferabili
 
 **Python · Pytorch Lightning · HPC**
 
-I am developing a self-supervised foundation model for cryo-electron tomography (cryo-ET), exploring learning useful self-supervised dense representations that can transfer to downstream tasks including denoising, subcellular segmentation, and macromolecular detection and identification. This is an ongoing research and development project, with current work focused on developing and selecting suitable model architectures, self-supervised learning strategies, data requirements for foundation models trained on large-scale cryo-ET data.
+I am developing a self-supervised foundation model for cryo-electron tomography (cryo-ET), exploring learning useful self-supervised dense representations that can transfer to downstream tasks including denoising, subcellular segmentation, and macromolecular detection and identification. The project combines model development and training strategy research with scalable multi-GPU training workflows and large-scale data processing on HPC infrastructure.
 
-Code is not yet publicly available because it supports ongoing or unpublished research, but development activity may be visible through my GitHub contribution history.
+Code is currently maintained in private institutional repositories as the research is ongoing.
 
 
 ## Research & Publications:
