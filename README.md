@@ -2,7 +2,7 @@
 
 I am a AI/ML PhD researcher and engineer specialising in deep learning for biomedical image analysis. 
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Machine Learning & Computer Vision**
 Deep Learning · Computer Vision · Self-Supervised Learning · Domain Adaptation · Foundation Models · CNNs · Transformers · Biomedical Image Segmentation
@@ -29,17 +29,14 @@ Developed a novel source-free, unsupervised metric for ranking the transferabili
 
 ---
 
-## Current Research Projects
-
-Some of my research software is maintained in private institutional repositories because it supports ongoing or unpublished research. Code is not yet publicly available, but development activity may be visible through my GitHub contribution history.
-
 ### Self Supervised Foundation Model for Cryo-Electron Tomography**
 
 **Python · Pytorch Lightning · HPC**
 
-Lead model developer of a self-supervised foundation model for cryo-electron tomography (cryo-ET), exploring learning useful self-supervised representations that can transfer to downstream tasks including denoising, subcellular segmentation, and macromolecular detection and identification.
+I am developing a self-supervised foundation model for cryo-electron tomography (cryo-ET), exploring learning useful self-supervised dense representations that can transfer to downstream tasks including denoising, subcellular segmentation, and macromolecular detection and identification. This is an ongoing research and development project, with current work focused on developing and selecting suitable model architectures, self-supervised learning strategies, data requirements for foundation models trained on large-scale cryo-ET data.
 
-This is an ongoing research and development project, with current work focused on developing and selecting suitable model architectures, self-supervised learning strategies, data requirements for foundation models trained on large-scale cryo-ET data.
+Code is not yet publicly available because it supports ongoing or unpublished research, but development activity may be visible through my GitHub contribution history.
+
 
 **My contributions**
 
@@ -50,7 +47,7 @@ This is an ongoing research and development project, with current work focused o
 * Working closely with domain scientists to translate biological requirements and data-quality considerations into training-data selection, preprocessing, and model-evaluation strategies.
 
 
-## 📚 Research & Publications:
+## Research & Publications:
 
 Talks, J., Marchesini, K., Lumetti, L., Bolelli, F., Kreshuk, A. (2026). Unsupervised Source-Free Ranking of Biomedical Segmentation Models Under Distribution Shift. In: Favaro, P., Kukelova, Z., Maki, A., Rohrbach, A., Schindler, K., Tombari, F. (eds) Computer Vision – ECCV 2026. ECCV 2026. Lecture Notes in Computer Science, vol 17010. Springer, Cham. https://doi.org/10.1007/978-3-032-36839-3_23
 
