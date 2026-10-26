@@ -29,22 +29,13 @@ Developed a novel source-free, unsupervised metric for ranking the transferabili
 
 ---
 
-### Self Supervised Foundation Model for Cryo-Electron Tomography**
+### Self Supervised Foundation Model for Cryo-Electron Tomography
 
 **Python · Pytorch Lightning · HPC**
 
 I am developing a self-supervised foundation model for cryo-electron tomography (cryo-ET), exploring learning useful self-supervised dense representations that can transfer to downstream tasks including denoising, subcellular segmentation, and macromolecular detection and identification. This is an ongoing research and development project, with current work focused on developing and selecting suitable model architectures, self-supervised learning strategies, data requirements for foundation models trained on large-scale cryo-ET data.
 
 Code is not yet publicly available because it supports ongoing or unpublished research, but development activity may be visible through my GitHub contribution history.
-
-
-**My contributions**
-
-* Developing a modular Python/PyTorch Lightning training framework for iterative experimentation with self-supervised foundation models on large-scale cryo-ET data.
-* Building distributed multi-GPU training workflows for HPC environments, including scalable data loading, checkpointing, experiment tracking, and reproducible configuration of training runs.
-* Exploring model architectures, self-supervised objectives, and training strategies for learning representations that generalise across heterogeneous cryo-ET datasets and downstream biological tasks.
-* Designing data pipelines for training on cryo-ET collections spanning hundreds of terabytes, with an emphasis on scalable I/O, sampling, preprocessing, and efficient utilisation of HPC resources.
-* Working closely with domain scientists to translate biological requirements and data-quality considerations into training-data selection, preprocessing, and model-evaluation strategies.
 
 
 ## Research & Publications:
